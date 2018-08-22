@@ -1,4 +1,4 @@
-package pl.Marta.exercises.Threads;
+package pl.Marta.exercises.Threads.Threadexercise.ThreadEx;
 
 public class MyRun implements Runnable {
 

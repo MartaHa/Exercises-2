@@ -1,6 +1,4 @@
-package pl.Marta.exercises;
-
-import pl.Marta.exercises.Threads.MyRun;
+package pl.Marta.exercises.Threads.Threadexercise.ThreadEx;
 
 public class Main {
 
