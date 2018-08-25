@@ -1,16 +1,16 @@
 # Exercises-2
 
 
-Simple java project  made for exercising Multithreading in Java:
+Simple Java project  made for exercising Multithreading in Java:  
 
--wait and notify methods
--synchronized,
--ThreadPool,
--Locks,
--Reentered Locks,
--Countdown Latch,
+-wait and notify methods  
+-synchronized,  
+-ThreadPool,  
+-Locks,  
+-Reentrant Locks,  
+-Countdown Latch,  
 
-and patterns: 
--Producer & Consumer,
--State,
+and patterns:   
+-Producer & Consumer,  
+-State,  
 
