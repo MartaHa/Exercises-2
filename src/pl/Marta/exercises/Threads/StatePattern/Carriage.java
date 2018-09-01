@@ -57,12 +57,10 @@ public class Carriage {
 
         private int number;
         private String track;
-        private int sidingNumber;
         private CarriageState state;
 
         public Builder exampleCarriage() {
             this.number = 3;
-            this.sidingNumber = 12;
             this.track = "straight";
             return this;
         }
@@ -75,7 +73,6 @@ public class Carriage {
             Carriage carriage = new Carriage();
             this.number = number;
             this.track = track;
-            this.sidingNumber = sidingNumber;
             this.state = state;
             return carriage;
         }

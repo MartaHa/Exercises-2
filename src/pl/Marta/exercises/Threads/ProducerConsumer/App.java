@@ -29,8 +29,8 @@ public class App {
             Thread.sleep(100);
             if (random.nextInt(10) == 0) {
                 Integer value = queue.take();
-                System.out.println("The taken value is: " + value);
-                System.out.println("Queue value is: " + queue.size());
+                System.out.println("I've taken: " + value);
+                System.out.println("Queue is now: " + queue.size());
             }
         }
     }
